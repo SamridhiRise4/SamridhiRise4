@@ -10,3 +10,8 @@ Email Me 👉 ✉️ **samriddhishukla77@gmail.com** For Collaboration/Project o
 - 📫 **How to reach me:** samriddhishukla77@gmail.com
 - 😄 **Pronouns:** Sam
 - ⚡ **Fun fact:** I Love world and world Love Me
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
